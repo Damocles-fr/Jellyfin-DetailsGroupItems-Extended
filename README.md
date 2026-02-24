@@ -2,8 +2,7 @@
 
 For **Jellyfin Web**, works with **JavaScript Injector** and requires an **OMDb API key** (free key with 1,000 requests per day).
 
-This script extends Jellyfin’s **DetailsGroupItems** section (Genres, Directors, Writers, Studios) with additional metadata fetched from **OMDb**.  
-It adds **Country**, **Awards**, and **Box Office** information directly to the item details view.
+This script extends Jellyfin’s **DetailsGroupItems** section (Genres, Directors, Writers, Studios) with additional metadata fetched from **OMDb**. It adds **Country**, **Awards**, and **Box Office** information directly to the item details view.
 
 Movies and TV shows are handled separately, allowing different behavior depending on the media type.  
 For each type, individual metadata rows can be enabled or disabled, and the display order of those rows can be freely configured.
