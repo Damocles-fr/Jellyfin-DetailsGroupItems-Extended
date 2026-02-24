@@ -16,6 +16,16 @@ The order in which the rows appear is fully configurable for movies and TV shows
 
 ---
 
+## Installation
+
+- Intended for **Jellyfin Web**
+- Requires a **JavaScript Injector** (e.g. Jellyfin JavaScript Injector plugin or userscript manager)
+- Paste the script into the injector
+- Don't forget to insert your **OMDb API key** into the script
+- Save and reload the Jellyfin Web interface
+
+---
+
 ## Tested on
 
 - Windows 11  
