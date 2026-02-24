@@ -15,7 +15,7 @@ The order in which the rows appear is fully configurable for movies and TV shows
 
 Optional: On click external links are resolved automatically by parsing the available provider IDs, ensuring that each row opens the correct destination depending on media type and context.  
 country   → IMDb Locations page (imdb.com/title/{imdbId}/locations/)  
-awards    → IMDb Awards page OR TMDb Awards page (TMDb only for movies, if configured)  
+awards    → IMDb Awards page or TMDb Awards page (TMDb only for movies, if configured)  
 boxoffice → Box Office Mojo page (boxofficemojo.com/title/{imdbId})  
 
 <img src="Screenshot.png" width="600">
