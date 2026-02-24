@@ -1,6 +1,8 @@
 # Jellyfin DetailsGroupItems Extension
 
-For **Jellyfin Web**, works with **JavaScript Injector** and requires an **OMDb API key** (free key with 1,000 requests per day).
+For **Jellyfin Web**, 
+works with **JavaScript Injector** 
+and requires an **OMDb API key** (free key with 1,000 requests per day).
 
 This script extends Jellyfin’s **DetailsGroupItems** section (Genres, Directors, Writers, Studios) with additional metadata fetched from **OMDb**. It adds **Country**, **Awards**, and **Box Office** information directly to the item details view.
 
