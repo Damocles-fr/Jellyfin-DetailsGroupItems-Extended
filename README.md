@@ -4,9 +4,6 @@ For **Jellyfin Web**, works with **JavaScript Injector**, requires **OMDb API ke
 
 This script extends Jellyfin’s **DetailsGroupItems** section (Genres, Directors, Writers, Studios) with additional metadata fetched from **OMDb**. It adds **Country**, **Awards**, and **Box Office** information directly to the item details view.
 
-Movies and TV shows are handled separately, allowing different behavior depending on the media type.  
-For each type, individual metadata rows can be enabled or disabled, and the display order of those rows can be freely configured.
-
 For movies, the script supports displaying country of origin, awards information, and box office data.  
 For TV shows, country of origin and awards information can be shown on the main series page.  
 Each row can be shown or hidden independently, and only enabled rows are rendered.
