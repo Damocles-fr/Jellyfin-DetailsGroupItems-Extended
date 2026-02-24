@@ -275,7 +275,6 @@
     const ids = { imdbId, tmdbId };
     const rows = {};
     const clickable = !!modeSettings.enableClickableLink;
-
     if (isRowEnabled(modeKey, modeSettings, orderSet, "country")) {
       rows.country = upsertRow(
         box,
@@ -323,3 +322,4 @@
   }).observe(document.body, { childList: true, subtree: true });
   run();
 })();
+
