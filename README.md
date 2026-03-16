@@ -1,5 +1,5 @@
 ## Fork changes :
-- Display Worldwide Box Office instead of Domestic Box Office (with fallback to OMDb Domestic BoxOffice if TMDB Worldwide Box Office is empty.
+- Display Worldwide Box Office instead of Domestic Box Office (with fallback to OMDb Domestic BoxOffice if TMDB Worldwide Box Office is empty.)
 - Display $9999999 (Worldwide) or $9999999 (Domestic) accordingly
 - Jellyfin Android App external links fix
 
