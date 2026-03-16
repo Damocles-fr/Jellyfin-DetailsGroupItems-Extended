@@ -11,7 +11,7 @@
 - Jellyfin Android App external links fix
 - Requires OMDb API key **and a TMDB key (free)**
 
-## This script adds **Country**, **Awards**, and **Box Office** information to the item details view
+## Adds **Country**, **Awards**, and **Box Office** information to the item details view
 - For movies : country of origin, awards information, and box office data.  
 - For TV shows : country of origin and awards information
 
@@ -23,8 +23,8 @@ awards    → IMDb Awards page or TMDb Awards page (TMDb only for movies, if con
 boxoffice → Box Office Mojo page (boxofficemojo.com/title/{imdbId})  
 
 - The order in which the rows appear is fully configurable for movies and TV shows individually.
-- Rows that are disabled or removed from the configured order are completely removed from the UI.
-- The injected rows fully match the appearance and behavior of Jellyfin’s native DetailsGroupItems.
+- Rows that are disabled or removed from the configured order are not rendered and completely removed from the UI.
+- The injected rows fully match the appearance and behavior of Jellyfin
 
 ---
 
