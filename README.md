@@ -6,12 +6,12 @@
 
 
 ## Fork changes :
-- Display ***Worldwide Box Office*** instead of *Domestic Box Office* (with fallback to OMDb Domestic BoxOffice if TMDB Worldwide Box Office is empty)
+- Display ***Worldwide Box Office*** instead of Domestic Box Office (with fallback to OMDb Domestic BoxOffice if TMDB Worldwide Box Office is empty)
 - Display $10,000,000 **(Worldwide)** or $10,000,000 **(Domestic)** accordingly
 - Requires **OMDb & TMDB API key (free)**
-- Jellyfin Android App external links fix
+- Jellyfin Android App external links **fix**
 
-## Adds **Country**, **Awards**, and **Box Office** information to the item details view
+## Adds ***Country***, ***Awards***, and ***Box Office*** information to the item details view
 - For movies : country of origin, awards information, and box office data.  
 - For TV shows : country of origin and awards information
 
