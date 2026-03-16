@@ -30,7 +30,7 @@ boxoffice → Box Office Mojo page (boxofficemojo.com/title/{imdbId})
 - Intended for **Jellyfin Web**
 - Requires a **JavaScript Injector** (e.g. Jellyfin JavaScript Injector plugin or userscript manager)
 - Paste the script into the injector
-- Don't forget to insert your **OMDb API key** into the script & config to your needs
+- Don't forget to insert your **OMDb API key** **and a TMDB key (free)** into the script & config to your needs
 - Save and reload the Jellyfin Web interface
 
 ---
@@ -38,8 +38,9 @@ boxoffice → Box Office Mojo page (boxofficemojo.com/title/{imdbId})
 ## Tested on
 
 - Windows 11  
-- Chrome  
-- Jellyfin Web 10.10.7 
+- Chrome & Firefox
+- Jellyfin Web 10.10.7
+- & Jellyfin Web 10.11.6
 
 ---
 
