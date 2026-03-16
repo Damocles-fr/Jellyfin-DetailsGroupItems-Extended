@@ -11,8 +11,7 @@
 - Jellyfin Android App external links fix
 - Requires OMDb API key **and a TMDB key (free)**
 
-## This script extends Jellyfin’s **DetailsGroupItems** section (Genres, Directors, Writers, Studios)
-- It adds **Country**, **Awards**, and **Box Office** information to the item details view
+## This script adds **Country**, **Awards**, and **Box Office** information to the item details view
 - For movies : country of origin, awards information, and box office data.  
 - For TV shows : country of origin and awards information
 
