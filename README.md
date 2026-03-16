@@ -7,7 +7,7 @@
 
 ## Fork changes :
 - Display ***Worldwide Box Office*** instead of *Domestic Box Office* (with fallback to OMDb Domestic BoxOffice if TMDB Worldwide Box Office is empty)
-- Display $9999999 **(Worldwide)** or $9999999 **(Domestic)** accordingly
+- Display $100000 **(Worldwide)** or $100000 **(Domestic)** accordingly
 - Jellyfin Android App external links fix
 - Requires OMDb API key **and a TMDB key (free)**
 
